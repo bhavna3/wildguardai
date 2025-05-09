@@ -1,4 +1,4 @@
-# WildGuard AI 🌲🔊
+# WildGuard AI 
 
 An intelligent audio classification system designed to detect and classify various sounds in wildlife environments, helping in forest monitoring and conservation efforts.
 
@@ -48,14 +48,14 @@ An intelligent audio classification system designed to detect and classify vario
 
 - Python 3.8+
 - pip package manager
-- Virtual environment (recommended)
+- virtual environment
 
 ## 🚀 Installation
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/WildGuard-AI.git
-   cd WildGuard-AI
+   git clone https://github.com/bhavna3/wildguardai.git
+   cd wildguardai
    ```
 
 2. **Create and activate virtual environment**
@@ -130,10 +130,4 @@ WildGuard-AI/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 🙏 Acknowledgments
-
-- Audio dataset contributors
-- Open-source ML model contributors
-- Environmental conservation organizations
-
-Project Link: [https://github.com/bhavna3/WildGuard-AI](https://github.com/bhavna3/WildGuard-AI)
+Project Link: [https://github.com/bhavna3/wildguardai](https://github.com/bhavna3/wildguardai)
