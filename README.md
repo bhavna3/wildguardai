@@ -121,5 +121,3 @@ WildGuard-AI/
 - `POST /upload` - Upload and process audio file
 - `GET /processed/<filename>` - Get processed spectrogram
 - `GET /static/images/<filename>` - Get prediction images
-
-Project Link: [https://github.com/bhavna3/wildguardai](https://github.com/bhavna3/wildguardai)
